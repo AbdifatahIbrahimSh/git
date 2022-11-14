@@ -1,8 +1,5 @@
 1. Nawal
-<<<<<<< HEAD
 2. Huda
 3. Hoodo
 4. Sumaya
-=======
-2. Huda
->>>>>>> parent of 1e7d25d (Three)
+
